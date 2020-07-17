@@ -1,3 +1,3 @@
 # HRSolutionServices
 
-Consultancy service landing page for HRSolutionServices 
+Consultancy service landing page 
